@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aterrand
+- 👀 I’m interested in coding with a team
+- 🌱 I’m currently learning Flask, Nextjs
+- 💞️ I’m looking to collaborate on a new company !
+- 📫 How to reach me: by mail I prefer, here is it: ax.terrand@gmail.com
